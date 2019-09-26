@@ -1,0 +1,6 @@
+"""
+    To be able to run pytest from the console without issues
+"""
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
