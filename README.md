@@ -15,11 +15,7 @@ To install the latest stable version run
 
 Required packages:
 
-* numpy, scipy, py-orthpol
-
-Optional (recommended) packages:
-
-* mpmath
+* numpy, scipy, py-orthpol, mpmath
 
 Supported Python versions:
 
